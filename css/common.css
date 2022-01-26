@@ -1,0 +1,24 @@
+*{padding: 0; margin: 0;}
+
+body{font-family: 'Black Han Sans', sans-serif; font-size: 14px;}
+
+ul{list-style: none;}
+
+a{display: inline-inline-block; text-decoration: none; color: #333333;}
+
+#top{width: 1000px; height: 80px; margin: 0 auto; position: relative;}
+
+#top h3{position: absolute; top: 25px; left: 40px; font-size: 40px;}
+
+#menu_bar{height: 48px; background-color: #25587a; font-size: 14px;}
+#menu_bar ul{width: 1000px; margin: 0 auto; padding: 14px 0px 14px 80px;}
+#menu_bar ul li{display: inline; margin-right: 90px;}
+#menu_bar ul li a{color: white;}
+
+footer{ height: 100px; background-color: #25587a;}
+#footer_content{position: relative; width: 1000px; margin: 0 auto; color: #dddddd;}
+#footer_logo{position: absolute; top: 30px; left: 50px; font-size: 16px;}
+#footer_logo span{color: yellow;}
+#addr{position: absolute; top: 20px; left: 400px;}
+#addr a{color:aquamarine;}
+#author{position: absolute; top: 20px; left: 700px;}
